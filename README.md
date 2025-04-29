@@ -1,1 +1,1 @@
-Nombre grado y grupo
+Tu nombre completo - Tu grado y tu grupo
